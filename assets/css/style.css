@@ -379,8 +379,8 @@ h1, h2, h3, h4, h5, h6 {
   padding: 14px 30px;
   border-radius: 3px;
   margin: 10px;
-  color: #fff;
-  background: #FF9D6C;
+  color: #FF9D6C;
+  background: #fff;
 }
 
 #hero .btn-get-started:hover {
